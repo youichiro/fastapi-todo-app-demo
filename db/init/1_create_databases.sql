@@ -1,0 +1,1 @@
+CREATE DATABASE fastapi_todo_app_development;
